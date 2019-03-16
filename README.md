@@ -1,5 +1,5 @@
 #MagicTouch.js *by Boris Smus*
-
+https://chamumutezva.github.io/MagicTouch/
 Standards-compatible touch event implementation to make it easier to develop
 web applications for for multitouch devices.
 
